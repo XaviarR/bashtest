@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\bashtest.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\brocollibites.jfif",
+      "PackagePath": "staticwebassets\\Images\\brocollibites.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\cheesebites.jfif",
+      "PackagePath": "staticwebassets\\Images\\cheesebites.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\chickenbites.jfif",
+      "PackagePath": "staticwebassets\\Images\\chickenbites.jfif"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
