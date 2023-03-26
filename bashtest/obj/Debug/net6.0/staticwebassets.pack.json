@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\bashtest.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\baconcheesetoppa.jfif",
+      "PackagePath": "staticwebassets\\Images\\baconcheesetoppa.jfif"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\brocollibites.jfif",
       "PackagePath": "staticwebassets\\Images\\brocollibites.jfif"
     },
@@ -15,6 +19,22 @@
     {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\chickenbites.jfif",
       "PackagePath": "staticwebassets\\Images\\chickenbites.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\chickencordueblue.jfif",
+      "PackagePath": "staticwebassets\\Images\\chickencordueblue.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\chickenpatty.jfif",
+      "PackagePath": "staticwebassets\\Images\\chickenpatty.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\lasagnatoppa.jfif",
+      "PackagePath": "staticwebassets\\Images\\lasagnatoppa.jfif"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\Images\\quarterpounder.jfif",
+      "PackagePath": "staticwebassets\\Images\\quarterpounder.jfif"
     },
     {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\bashtest\\bashtest\\wwwroot\\css\\site.css",
